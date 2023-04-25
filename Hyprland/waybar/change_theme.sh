@@ -11,6 +11,9 @@
 #  put all your themes folders under '~/.config/waybar/themes'
 #  ex: ~/.config/waybar/themes/theme1
 #      ~/.config/waybar/themes/theme2
+#
+#  adding this to your hyprland.conf might be a good idea:
+#    windowrulev2 = float,class:^(zenity)$
 
 # usage:
 #   bind this script to a key in Hyprland 
